@@ -22,7 +22,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: 10.10.0.249
+    domain: jx-testbed
     kind: ingress
     namespaceSubDomain: -jx.
     tls:
