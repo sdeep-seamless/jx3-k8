@@ -19,7 +19,7 @@ metadata:
   namespace: jx
 spec:
   rules:
-    - host: dashboard-jx.10.10.0.249
+    - host: dashboard-jx.change.me
       http:
         paths:
           - pathType: ImplementationSpecific
