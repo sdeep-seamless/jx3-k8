@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - sdeep-seamless/jx3-k8
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.jx-testbed/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null

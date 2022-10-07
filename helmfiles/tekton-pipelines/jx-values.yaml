@@ -38,7 +38,7 @@ jxRequirements:
   - key: staging
   - key: production
   ingress:
-    domain: change.me
+    domain: jx-testbed
     kind: ingress
     namespaceSubDomain: -tekton-pipelines.
     tls:
